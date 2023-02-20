@@ -74,9 +74,9 @@ const Home: NextPage = () => {
                 className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
                 href="lightning:peer@getalby.com"
               >
-                <h3 className="text-2xl font-bold">Claim your username →</h3>
+                <h3 className="text-2xl font-bold">1. Claim your username →</h3>
                 <div className="text-lg">
-                  Get your unique no.str.bio link for 10,000 Satoshi.
+                  Get your unique no.str.bio link and NIP-5 for 10,000 Satoshi.
                 </div>
                 <strong>⚡ Pay with Lightning</strong>
               </Link>
@@ -84,7 +84,7 @@ const Home: NextPage = () => {
                 className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
                 href="https://github.com/PeerRich/no.str.bio/issues/new?title=new%20username&body=I%20want%20this%20username:"
               >
-                <h3 className="text-2xl font-bold">Request username →</h3>
+                <h3 className="text-2xl font-bold">2. Request username →</h3>
                 <div className="text-lg">
                   Once your lightning payment went through, open a ticket on
                   GitHub and I will create your link.
@@ -95,7 +95,7 @@ const Home: NextPage = () => {
           </div>
         </main>
 
-        <footer className="text-white opacity-50">
+        <footer className="text-center text-white opacity-50">
           Created by{" "}
           <a
             className="text-[#8D3AC5] underline hover:text-purple-400"
@@ -114,6 +114,11 @@ const Home: NextPage = () => {
           >
             satscoffee
           </a>
+          .
+          <br />
+          <small className="opacity-50">
+            No refunds. Non-commercial fun-project. Pura Vida 🤙
+          </small>
         </footer>
       </div>
     </>
