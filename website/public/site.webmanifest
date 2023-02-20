@@ -1,0 +1,19 @@
+{
+    "name": "no.str.bio",
+    "short_name": "no.str.bio",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#8d3ac5",
+    "background_color": "#8d3ac5",
+    "display": "standalone"
+}
