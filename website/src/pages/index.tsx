@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           property="og:description"
           content="Get your #nostr short link and NIP5 identifier"
         />
-        <meta property="og:image" content="https://no.str.bio/og-image.png" />
+        <meta property="og:image" content="https://no.str.bio/og-image.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://no.str.bio" />
@@ -32,7 +32,7 @@ const Home: NextPage = () => {
         />
         <meta
           property="twitter:image"
-          content="https://no.str.bio/og-image.png"
+          content="https://no.str.bio/og-image.jpg"
         />
         <link
           rel="apple-touch-icon"
