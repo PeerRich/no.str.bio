@@ -101,6 +101,7 @@ const Home: NextPage = () => {
             className="text-[#8D3AC5] underline hover:text-purple-400"
             href="https://no.str.bio/peer"
             target="_blank"
+            rel="noreferrer"
           >
             @peer
           </a>
@@ -109,6 +110,7 @@ const Home: NextPage = () => {
             className="text-[#8D3AC5] underline hover:text-purple-400"
             href="https://github.com/satscoffee/nostr_icons"
             target="_blank"
+            rel="noreferrer"
           >
             satscoffee
           </a>
