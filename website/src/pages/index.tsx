@@ -76,7 +76,8 @@ const Home: NextPage = () => {
               >
                 <h3 className="text-2xl font-bold">1. Claim your username →</h3>
                 <div className="text-lg">
-                  Get your unique no.str.bio link and NIP-5 for 10,000 Satoshi.
+                  Get your unique no.str.bio link and NIP-5 verification for{" "}
+                  <strong>10,000 Sats</strong>.
                 </div>
                 <strong>⚡ Pay with Lightning</strong>
               </Link>
@@ -103,7 +104,7 @@ const Home: NextPage = () => {
             target="_blank"
             rel="noreferrer"
           >
-            @peer
+            no.str.bio/peer
           </a>
           , Nostrich Gif by{" "}
           <a
