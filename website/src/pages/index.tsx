@@ -90,7 +90,7 @@ const Home: NextPage = () => {
                   Once your lightning payment went through, send me a DM and I
                   will create your link.
                 </div>
-                <strong>Open Request on GitHub</strong>
+                <strong>Send a DM on Nostr</strong>
               </Link>
             </div>
           </div>
