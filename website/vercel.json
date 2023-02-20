@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/peer",
-      "destination": "https://damus.io/npub18zx8lw3947pghsgzqv2t0x8pe767sscag5djgj5afr755xkqd97qt530pr",
-      "permanent": true
-    }
-  ]
-}

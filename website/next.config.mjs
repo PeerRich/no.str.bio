@@ -10,6 +10,16 @@
 const config = {
   reactStrictMode: true,
 
+  async redirects() {
+    return [
+      {
+        source: "/peer",
+        destination:
+          "https://damus.io/npub18zx8lw3947pghsgzqv2t0x8pe767sscag5djgj5afr755xkqd97qt530pr",
+        permanent: true,
+      },
+    ];
+  },
   /**
    * If you have the "experimental: { appDir: true }" setting enabled, then you
    * must comment the below `i18n` config out.
