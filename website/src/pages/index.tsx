@@ -115,7 +115,15 @@ const Home: NextPage = () => {
           >
             satscoffee
           </a>
-          .
+          . Source code on{" "}
+          <a
+            className="text-[#8D3AC5] underline hover:text-purple-400"
+            href="https://github.com/PeerRich/no.str.bio"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
           <br />
           <small className="opacity-50">
             No refunds. Non-commercial fun-project. Pura Vida 🤙
