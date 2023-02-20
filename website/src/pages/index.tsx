@@ -83,12 +83,12 @@ const Home: NextPage = () => {
               </Link>
               <Link
                 className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
-                href="https://github.com/PeerRich/no.str.bio/issues/new?title=new%20username&body=I%20want%20this%20username:"
+                href="https://no.str.bio/peer"
               >
-                <h3 className="text-2xl font-bold">2. Request username →</h3>
+                <h3 className="text-2xl font-bold">2. Send me a DM →</h3>
                 <div className="text-lg">
-                  Once your lightning payment went through, open a ticket on
-                  GitHub and I will create your link.
+                  Once your lightning payment went through, send me a DM and I
+                  will create your link.
                 </div>
                 <strong>Open Request on GitHub</strong>
               </Link>
