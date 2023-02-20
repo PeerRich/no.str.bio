@@ -56,10 +56,6 @@ const Home: NextPage = () => {
         <meta name="msapplication-TileColor" content="#8d3ac5" />
         <meta name="theme-color" content="#8d3ac5" />
         <link rel="icon" href="/favicon.ico" />
-        <script
-          src="https://kit.fontawesome.com/090ca49637.js"
-          crossOrigin="anonymous"
-        ></script>
       </Head>
       <div className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-[#2e026d] to-[#15162c]">
         <main>
@@ -80,8 +76,7 @@ const Home: NextPage = () => {
               >
                 <h3 className="text-2xl font-bold">Claim your username →</h3>
                 <div className="text-lg">
-                  Get your unique no.str.bio link for{" "}
-                  <i className="fak fa-light" /> 10,000 Satoshi.
+                  Get your unique no.str.bio link for 10,000 Satoshi.
                 </div>
                 <strong>⚡ Pay with Lightning</strong>
               </Link>
@@ -108,14 +103,6 @@ const Home: NextPage = () => {
             target="_blank"
           >
             @peer
-          </a>
-          , Satoshi Symbol by{" "}
-          <a
-            className="text-[#8D3AC5] underline hover:text-purple-400"
-            href="https://satsymbol.com/"
-            target="_blank"
-          >
-            satsymbol.com
           </a>
           , Nostrich Gif by{" "}
           <a
