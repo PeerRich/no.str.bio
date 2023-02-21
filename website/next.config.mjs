@@ -24,6 +24,18 @@ const config = {
           "https://damus.io/npub19wnsemsf9upsllpsaypgzkemhxs2zh688pwfdmp0xydd030dwvuqncafq0",
         permanent: true,
       },
+      {
+        source: "/alexis",
+        destination:
+          "https://damus.io/npub136r547yapt7pc3yyaaq8nxh3numxn72m7mmj6e3mmna7zk3up7eq8lugz7",
+        permanent: true,
+      },
+      {
+        source: "/sovryn",
+        destination:
+          "https://damus.io/npub1fl7pr0azlpgk469u034lsgn46dvwguz9g339p03dpetp9cs5pq5qxzeknp",
+        permanent: true,
+      },
     ];
   },
   /**
