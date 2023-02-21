@@ -72,7 +72,7 @@ const Home: NextPage = () => {
             <div className=" grid grid-cols-1 gap-4 sm:grid-cols-2">
               <Link
                 className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20"
-                href="lightning:peer@getalby.com"
+                href="https://www.lnurlpay.com/peer@getalby.com/10000?comment=i%20want%20the%20username:"
               >
                 <h3 className="text-2xl font-bold">1. Claim your username →</h3>
                 <div className="text-lg">
