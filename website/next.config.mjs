@@ -33,7 +33,7 @@ const config = {
       {
         source: "/sovryn",
         destination:
-          "https://damus.io/npub1fl7pr0azlpgk469u034lsgn46dvwguz9g339p03dpetp9cs5pq5qxzeknp",
+          "https://damus.io/npub13e6ltkjzcr9hhked2yjpu6kfgdtlk58tgg470alhlrx7f4h2zqhsat7n7r",
         permanent: true,
       },
     ];
