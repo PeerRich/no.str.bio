@@ -18,6 +18,12 @@ const config = {
           "https://damus.io/npub18zx8lw3947pghsgzqv2t0x8pe767sscag5djgj5afr755xkqd97qt530pr",
         permanent: true,
       },
+      {
+        source: "/kale",
+        destination:
+          "https://damus.io/npub19wnsemsf9upsllpsaypgzkemhxs2zh688pwfdmp0xydd030dwvuqncafq0",
+        permanent: true,
+      },
     ];
   },
   /**
