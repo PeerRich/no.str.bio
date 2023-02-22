@@ -36,6 +36,13 @@ const config = {
           "https://damus.io/npub13e6ltkjzcr9hhked2yjpu6kfgdtlk58tgg470alhlrx7f4h2zqhsat7n7r",
         permanent: true,
       },
+      {
+        source: "/pablocryptobar",
+        destination:
+          "https://damus.io/npub135htz5v2vxrv5q9phw005mtp3aal2yu8xuhf9qu9v3p366r6k6nsxwsuc8",
+        permanent: true,
+      },
+      ,
     ];
   },
   /**
