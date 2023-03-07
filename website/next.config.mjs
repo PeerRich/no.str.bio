@@ -42,6 +42,12 @@ const config = {
           "https://damus.io/npub135htz5v2vxrv5q9phw005mtp3aal2yu8xuhf9qu9v3p366r6k6nsxwsuc8",
         permanent: true,
       },
+      {
+        source: "/nostrgit",
+        destination:
+          "https://damus.io/npub16ygdhnz0slfpudnesl6nfr4hvv3gaznwa3u697t7heegk0tcwjnslg8n2r",
+        permanent: true,
+      },
     ];
   },
   /**
