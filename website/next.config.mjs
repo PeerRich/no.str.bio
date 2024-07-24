@@ -15,37 +15,37 @@ const config = {
       {
         source: "/peer",
         destination:
-          "https://iris.to/npub18zx8lw3947pghsgzqv2t0x8pe767sscag5djgj5afr755xkqd97qt530pr",
+          "https://primal.net/p/npub18zx8lw3947pghsgzqv2t0x8pe767sscag5djgj5afr755xkqd97qt530pr",
         permanent: true,
       },
       {
         source: "/kale",
         destination:
-          "https://iris.to/npub19wnsemsf9upsllpsaypgzkemhxs2zh688pwfdmp0xydd030dwvuqncafq0",
+          "https://primal.net/p/npub19wnsemsf9upsllpsaypgzkemhxs2zh688pwfdmp0xydd030dwvuqncafq0",
         permanent: true,
       },
       {
         source: "/alexis",
         destination:
-          "https://iris.to/npub136r547yapt7pc3yyaaq8nxh3numxn72m7mmj6e3mmna7zk3up7eq8lugz7",
+          "https://primal.net/p/npub136r547yapt7pc3yyaaq8nxh3numxn72m7mmj6e3mmna7zk3up7eq8lugz7",
         permanent: true,
       },
       {
         source: "/sovryn",
         destination:
-          "https://iris.to/npub13e6ltkjzcr9hhked2yjpu6kfgdtlk58tgg470alhlrx7f4h2zqhsat7n7r",
+          "https://primal.net/p/npub13e6ltkjzcr9hhked2yjpu6kfgdtlk58tgg470alhlrx7f4h2zqhsat7n7r",
         permanent: true,
       },
       {
         source: "/pablocryptobar",
         destination:
-          "https://iris.to/npub135htz5v2vxrv5q9phw005mtp3aal2yu8xuhf9qu9v3p366r6k6nsxwsuc8",
+          "https://primal.net/p/npub135htz5v2vxrv5q9phw005mtp3aal2yu8xuhf9qu9v3p366r6k6nsxwsuc8",
         permanent: true,
       },
       {
         source: "/nostrgit",
         destination:
-          "https://iris.to/npub16ygdhnz0slfpudnesl6nfr4hvv3gaznwa3u697t7heegk0tcwjnslg8n2r",
+          "https://primal.net/p/npub16ygdhnz0slfpudnesl6nfr4hvv3gaznwa3u697t7heegk0tcwjnslg8n2r",
         permanent: true,
       },
     ];
